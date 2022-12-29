@@ -8,7 +8,7 @@
 
 - 👨‍💻 LinkedIn [https://www.linkedin.com/in/dhanush-a1a0641a2](https://www.linkedin.com/in/dhanush-a1a0641a2)
 
-- 📫 How to reach me **https://dhanush3213.github.io/Dhanush/**
+- 📫 About me **https://dhanush3213.github.io/Dhanush/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
