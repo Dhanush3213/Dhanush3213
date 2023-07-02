@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **django rest framework,react,machine learning**
 
-- 👨‍💻 LinkedIn [https://www.linkedin.com/in/dhanush-a1a0641a2](https://www.linkedin.com/in/dhanush-a1a0641a2)
+- 👨‍💻 LinkedIn [https://www.linkedin.com/in/dhanush2001/](https://www.linkedin.com/in/dhanush2001/)
 
 - 📫 About me **https://dhanush3213.github.io/Dhanush/**
 
