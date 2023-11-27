@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">A passionate webdeveloper from Sdm Institute of technology,Ujire</h3>
+<h3 align="center">A passionate Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush3213&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush3213" /> </p>
 
 
-- 🌱 I’m currently learning **django rest framework,react,machine learning**
+- 🌱 I’m currently learning **C#,Reactjs,machine learning**
 
 - 👨‍💻 LinkedIn [https://www.linkedin.com/in/dhanush2001/](https://www.linkedin.com/in/dhanush2001/)
 
